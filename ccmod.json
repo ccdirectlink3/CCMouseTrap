@@ -2,6 +2,8 @@
 	"id": "mouse-trap",
 	"version": "1.0.0",
 	"title": "Mouse trap",
+	"description": "Traps mouse cursor inside the game window",
+	"homepage": "https://github.com/CCDirectLink/CCMouseTrap",
 	"prestart": "prestart.js",
 	"dependencies": {
 		"crosscode": "^1.1.0"

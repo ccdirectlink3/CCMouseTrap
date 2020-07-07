@@ -1,1 +1,2 @@
-1. link to the general mod installation guide in README
+1. fix math
+2. make a release
